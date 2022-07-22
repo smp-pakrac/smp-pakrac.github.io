@@ -1,6 +1,27 @@
 @charset "UTF-8";
+@font-face {
+	font-family: smpfont;
+	src: url('font.otf');
+}
+
+.smp_body {
+	text-align: center;
+}
+
+.header {
+	
+}
+
+body {
+	font-family: smpfont;
+}
+ 
 a {
 	appearance: button;
     text-decoration: none;
     color: initial;
+}
+
+p.status {
+	color: #DE0022;
 }
