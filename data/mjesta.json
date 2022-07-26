@@ -1,0 +1,199 @@
+{
+    "FFFFFF": {
+        "name": "Pakrac",
+        "districts": [
+            "Gavrinica",
+            "Švabin Brijeg",
+            "Pilana",
+            "Krndija",
+            "Jug",
+            "Pakračko Polje"
+        ]
+    },
+    "FFFF00": {
+        "name": "Prekopakra",
+        "districts": [
+            "Pakurnovac"
+        ]
+    },
+    "FF0000": {
+        "name": "Filipovac",
+        "districts": []
+    },
+    "000000": {
+        "name": "Lipik",
+        "districts": []
+    },
+    "00000FF": {
+        "name": "Klisa",
+        "districts": []
+    },
+    "00FFFF": {
+        "name": "Batinjani",
+        "districts": []
+    },
+    "FF00FF": {
+        "name": "Novi Majur",
+        "districts": []
+    },
+    "00FF00": {
+        "name": "Batinjani (Pakrac)",
+        "districts": []
+    },
+    "111111": {
+        "name": "Omanovac",
+        "districts": []
+    },
+    "222222": {
+        "name": "Toranj",
+        "districts": []
+    },
+    "333333": {
+        "name": "Kukunjevac",
+        "districts": []
+    },
+    "444444": {
+        "name": "Dobrovac",
+        "districts": []
+    },
+    "555555": {
+        "name": "Brekinska",
+        "districts": []
+    },
+    "666666": {
+        "name": "Gaj",
+        "districts": []
+    },
+    "777777": {
+        "name": "Brezine",
+        "districts": []
+    },
+    "888888": {
+        "name": "Bujavica",
+        "districts": []
+    },
+    "999999": {
+        "name": "Lovska",
+        "districts": []
+    },
+    "AAAAAA": {
+        "name": "Bair",
+        "districts": []
+    },
+    "BBBBBB": {
+        "name": "Stari Grabovac",
+        "districts": []
+    },
+    "CCCCCC": {
+        "name": "Subocka",
+        "districts": []
+    },
+    "DDDDDD": {
+        "name": "Donji Čaglić",
+        "districts": []
+    },
+    "EEEEEE": {
+        "name": "Bjelanovac",
+        "districts": []
+    },
+    "101010": {
+        "name": "Bijela Stijena",
+        "districts": []
+    },
+    "202020": {
+        "name": "Japaga",
+        "districts": []
+    },
+    "303030": {
+        "name": "Šeovica",
+        "districts": []
+    },
+    "404040": {
+        "name": "Kraguj",
+        "districts": []
+    },
+    "505050": {
+        "name": "Kusonje",
+        "districts": []
+    },
+    "606060": {
+        "name": "Srednji Grahovljani",
+        "districts": []
+    },
+    "707070": {
+        "name": "Gornji Grahovljani",
+        "districts": []
+    },
+    "808080": {
+        "name": "Branešci",
+        "districts": []
+    },
+    "909090": {
+        "name": "Ožegovci",
+        "districts": []
+    },
+    "A0A0A0": {
+        "name": "Veliki Budići",
+        "districts": []
+    },
+    "B0B0B0": {
+        "name": "Koturić",
+        "districts": []
+    },
+    "C0C0C0": {
+        "name": "Mijači",
+        "districts": []
+    },
+    "D0D0D0": {
+        "name": "Tisovac",
+        "districts": []
+    },
+    "E0E0E0": {
+        "name": "Glavica",
+        "districts": []
+    },
+    "F0F0F0": {
+        "name": "Bučje",
+        "districts": []
+    },
+    "010101":{
+        "name": "Španovica",
+        "districts": []
+    },
+    "121212":{
+        "name": "Dragović",
+        "districts": []
+    },
+    "232323":{
+        "name": "Gornja Šumetlica",
+        "districts": []
+    },
+    "343434":{
+        "name": "Kričke",
+        "districts": []
+    },
+    "454545":{
+        "name": "Bjelajci",
+        "districts": []
+    },
+    "565656":{
+        "name": "Cikote",
+        "districts": []
+    },
+    "676767":{
+        "name": "Donja Šumetlica",
+        "districts": []
+    },
+    "787878":{
+        "name": "Brusnik",
+        "districts": []
+    },
+    "989898":{
+        "name": "Golobrdac",
+        "districts": []
+    },
+    "BABABA":{
+        "name": "Psunj",
+        "districts": []
+    }
+}
