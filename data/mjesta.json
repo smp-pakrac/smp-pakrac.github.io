@@ -3,7 +3,7 @@
         "name": "Pakrac",
         "districts": [
             "Gavrinica",
-            "Švabin Brijeg",
+            "Svabin Brijeg",
             "Pilana",
             "Krndija",
             "Jug",
@@ -89,7 +89,7 @@
         "districts": []
     },
     "DDDDDD": {
-        "name": "Donji Čaglić",
+        "name": "Donji Cglic,
         "districts": []
     },
     "EEEEEE": {
@@ -105,7 +105,7 @@
         "districts": []
     },
     "303030": {
-        "name": "Šeovica",
+        "name": "Seovica",
         "districts": []
     },
     "404040": {
@@ -125,23 +125,23 @@
         "districts": []
     },
     "808080": {
-        "name": "Branešci",
+        "name": "Branesci",
         "districts": []
     },
     "909090": {
-        "name": "Ožegovci",
+        "name": "Ozegovci",
         "districts": []
     },
     "A0A0A0": {
-        "name": "Veliki Budići",
+        "name": "Veliki Budici",
         "districts": []
     },
     "B0B0B0": {
-        "name": "Koturić",
+        "name": "Koturic",
         "districts": []
     },
     "C0C0C0": {
-        "name": "Mijači",
+        "name": "Mijaci",
         "districts": []
     },
     "D0D0D0": {
@@ -153,23 +153,23 @@
         "districts": []
     },
     "F0F0F0": {
-        "name": "Bučje",
+        "name": "Bucje",
         "districts": []
     },
     "010101":{
-        "name": "Španovica",
+        "name": "Spanovica",
         "districts": []
     },
     "121212":{
-        "name": "Dragović",
+        "name": "Dragovic",
         "districts": []
     },
     "232323":{
-        "name": "Gornja Šumetlica",
+        "name": "Gornja Sumetlica",
         "districts": []
     },
     "343434":{
-        "name": "Kričke",
+        "name": "Kricke",
         "districts": []
     },
     "454545":{
@@ -181,7 +181,7 @@
         "districts": []
     },
     "676767":{
-        "name": "Donja Šumetlica",
+        "name": "Donja Sumetlica",
         "districts": []
     },
     "787878":{
