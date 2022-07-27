@@ -8,8 +8,14 @@ body {
 	font-weight: 900;
 	letter-spacing: 1px;
 	text-transform: lowercase;
-	background-color: #131014;
+	background-color: #424143;
 	color: #dce0e4;
+}
+
+h1 {
+	width: fit-content;
+	border: 2px solid #2d2c2e;
+	border-radius: 5px;
 }
 
 a {
