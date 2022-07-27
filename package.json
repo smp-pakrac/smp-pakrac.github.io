@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mongojs": "^3.1.0"
+  },
+  "name": "smp-pakrac",
+  "version": "1.0.0",
+  "main": "date.js",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smp-pakrac/smp-pakrac.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smp-pakrac/smp-pakrac.github.io/issues"
+  },
+  "homepage": "https://github.com/smp-pakrac/smp-pakrac.github.io#readme",
+  "description": ""
+}

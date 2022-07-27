@@ -3,20 +3,32 @@
 	src: url('font.otf');
 }
 
-.smp_body {
-	text-align: center;
+body {
+	font-family: Arial;
+	font-weight: 900;
+	letter-spacing: 1px;
+	text-transform: lowercase;
+	background-color: #131014;
+	color: #dce0e4;
 }
 
-body {
-	font-family: smpfont;
-}
- 
 a {
 	appearance: button;
-    text-decoration: none;
-    color: initial;
+	text-decoration: none;
+	color: #6faae4;
 }
 
 p.status {
 	color: #DE0022;
+}
+
+.indent {
+	margin-left: 20px;
+}
+
+table,
+th,
+td {
+	width: 100%;
+	border: 2px solid black;
 }
