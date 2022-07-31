@@ -31,9 +31,6 @@ p.status {
 	margin-left: 20px;
 }
 
-table,
-th,
-td {
-	width: 100%;
-	border: 2px solid black;
-}
+li { 
+	margin-top: 10px;  
+ }
